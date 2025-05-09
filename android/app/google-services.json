@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990908278687",
+    "project_id": "pushnotification-14fe0",
+    "storage_bucket": "pushnotification-14fe0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990908278687:android:41e6739c2aebbf43beffaa",
+        "android_client_info": {
+          "package_name": "com.example.flutternotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa-chkGHTTSbWA5apS65OYi0IKNXvYaVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990908278687:android:3d6c936ddde03b61beffaa",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa-chkGHTTSbWA5apS65OYi0IKNXvYaVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
